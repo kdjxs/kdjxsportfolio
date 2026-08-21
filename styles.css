@@ -234,12 +234,6 @@ h1, h2, h3 {
   color: var(--paper-dim);
   text-decoration: none;
 }
-
-.no-js .section {
-  opacity: 1;
-  transform: none;
-}
-
 .social-links a:hover { color: var(--teal); }
 
 /* Footer */
